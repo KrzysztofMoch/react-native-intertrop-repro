@@ -1,0 +1,9 @@
+{
+  "name": "react-native-local-module",
+  "version": "0.0.0",
+  "description": "repro",
+  "main": "src/index",
+  "author": " <> ()",
+  "license": "UNLICENSED",
+  "homepage": "#readme"
+}
